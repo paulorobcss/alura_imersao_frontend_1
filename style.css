@@ -15,20 +15,20 @@ h1 {
     width: 300px;
 }
 
-.sidebar_navigation {
+.sidebar__navigation {
     background-color: #121212;
     border-radius: 8px;
     padding: 16px 0 0 16px; /* todo: tentar deixar só com dois elementos */ 
 }
 
-.sidebar_navigation .logo {
+.sidebar__navigation .logo {
     background: #121212;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
 
-.sidebar_navigation .logo img {
+.sidebar__navigation .logo img {
     width: 80px;
 }
 
